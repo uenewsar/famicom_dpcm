@@ -29,3 +29,18 @@ The correspondence between this value and the sampling frequency is described in
 In the actual NES/Famicom, the sampling frequency of the playback sound seems to be a decimal number.
 In this script, the sampling frequency is rounded to a whole number for the purpose of output as a wav file.
 
+
+## Example
+I show an example of DPCM sound using a drum sound.
+The output sound's sampling frequency is 33144Hz (default value).
+
+### Original sound
+[https://soundcloud.com/uenewsar/loop01:embed]
+[https://soundcloud.com/uenewsar/loop01:title]
+
+### Converted sound generted by DPCM
+[https://soundcloud.com/uenewsar/converted:embed]
+[https://soundcloud.com/uenewsar/converted:title]
+
+I used these sounds from [http://musicisvfr.com:title].
+
