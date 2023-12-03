@@ -40,4 +40,3 @@ The output sound's sampling frequency is 33144Hz (default value).
 [[Converted](https://soundcloud.com/uenewsar/converted?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)]
 
 I used a sound from [[musicisvfr.com](http://musicisvfr.com)] as the original sound.
-
