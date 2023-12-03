@@ -35,12 +35,10 @@ I show an example of DPCM sound using a drum sound.
 The output sound's sampling frequency is 33144Hz (default value).
 
 ### Original sound
-[https://soundcloud.com/uenewsar/loop01:embed]
-[https://soundcloud.com/uenewsar/loop01:title]
+[https://soundcloud.com/uenewsar/loop01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing]
 
 ### Converted sound generted by DPCM
-[https://soundcloud.com/uenewsar/converted:embed]
-[https://soundcloud.com/uenewsar/converted:title]
+[https://soundcloud.com/uenewsar/converted?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing]
 
-I used these sounds from [http://musicisvfr.com:title].
+I used these sounds from [http://musicisvfr.com].
 
